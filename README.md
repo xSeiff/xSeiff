@@ -36,12 +36,12 @@ I engineer high-scale **Discord bot infrastructure**, **real-time web dashboards
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xSeiff&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=818cf8&icon_color=38bdf8&text_color=94a3b8" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSeiff&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=818cf8&text_color=94a3b8" height="175" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=xSeiff&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=818cf8&icon_color=38bdf8&text_color=94a3b8" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xSeiff&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=818cf8&text_color=94a3b8" height="175" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xSeiff&theme=tokyonight&hide_border=true&background=09090b&ring=818cf8&fire=38bdf8&currStreakLabel=818cf8" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=xSeiff&theme=tokyonight&hide_border=true&background=09090b&ring=818cf8&fire=38bdf8&currStreakLabel=818cf8" alt="GitHub Streak" />
 
 </div>
 
