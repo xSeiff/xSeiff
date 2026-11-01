@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Hi there, I'm Seif 👋
 ### Full-Stack Discord Bot Developer • Cybersecurity Researcher • Automation Engineer
@@ -97,13 +97,18 @@ I engineer high-scale **Discord bot infrastructure**, **real-time web dashboards
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| 🌐 **[Live Portfolio](https://xseiff.github.io/)** | React 18, Vite, Tailwind CSS | Interactive showcase featuring 13+ production bots, architecture breakdowns, and direct Discord webhook messaging. |
-| 🛡️ **Seif Nuker (Security Suite)** | Python 3.11, asyncio, uvloop, Gateway WebSocket | Educational protocol stress-testing harness with 250+ req/s async dispatch and HTTP 429 bucket tracing. |
-| 🤖 **BotMaker Platform** | Node.js, Express, Drizzle ORM, PostgreSQL | Multi-tenant SaaS platform for automated bot provisioning and fleet configuration. |
-| 🎫 **TicketBot & Web Dashboard** | Discord.js, React 18, Drizzle ORM, Express | Full-stack support ecosystem with Discord OAuth2 authentication and automated transcript exports. |
-| 🎥 **Quran TikTok Media Engine** | Python, FFmpeg NVENC, HarfBuzz, FriBidi, Docker | Headless automated video compositor rendering sub-pixel Arabic typography and synced audio recitations. |
-| ✨ **Discord Gemini AI Assistant** | Node.js, Discord.js v14, @google/generative-ai | Multi-modal conversational assistant with streaming responses and image vision support. |
-| 🎙️ **TempVoice Engine** | Python, discord.py, Discord UI Views | Automated Join-to-Create voice channel system with interactive control buttons and zero-orphan cleanup. |
+| 🌐 **[Live Portfolio](https://xseiff.github.io/)** | React 18, Vite, Tailwind CSS | Interactive showcase featuring 12+ production systems, architectural deep-dives, and direct GitHub links. |
+| ⚡ **[AegisFleet Monorepo](https://github.com/xSeiff/aegisfleet-monorepo)** | Turbo, TypeScript, Discord.js v14, Express | Distributed multi-tenant Discord bot SaaS & cluster supervision engine with isolated workers. |
+| 🎬 **[EditorsHub Portal](https://github.com/xSeiff/editorshub-portal)** | React 18, Vite, Drizzle ORM, Neon Postgres | Video production marketplace & client operations hub with live WebSocket telemetry. |
+| 🎫 **[TicketFlow Suite](https://github.com/xSeiff/ticketflow-suite)** | Discord.js v14, React 18, Drizzle ORM | Enterprise support ticketing ecosystem with dynamic modals and automated HTML transcripts. |
+| 🛡️ **[SeifNuker Protocol Suite](https://github.com/xSeiff/seifnuker-protocol-suite)** | Python 3.11, asyncio, uvloop, Gateway v10 | High-concurrency security benchmarking harness with 250+ req/s dispatch and HTTP 429 curve tracing. |
+| 🎥 **[AyatRender Media Engine](https://github.com/xSeiff/ayatrender-media-engine)** | Python, FFmpeg NVENC, HarfBuzz RTL, Docker | Headless GPU-accelerated video compositing engine rendering RTL Arabic typography and synced audio. |
+| 🤖 **[RobloxLink Core](https://github.com/xSeiff/robloxlink-core)** | Discord.js v14, Roblox Open Cloud API v2 | Enterprise Discord-Roblox identity synchronization & 20-role dynamic autocomplete orchestrator. |
+| 🎙️ **[TempVoice Engine](https://github.com/xSeiff/tempvoice-engine)** | Python 3.11, discord.py, SQLite | Dynamic Join-to-Create voice channels with sub-85ms instantiation and zero-orphan cleanup. |
+| 📡 **[PulseBroadcast Engine](https://github.com/xSeiff/pulsebroadcast-engine)** | Node.js, Discord.js v14, Sliding-Window Queue | Multi-guild announcement dispatcher with rate-limit pacing and webhook delivery telemetry. |
+| ✨ **[GeminiVision Assistant](https://github.com/xSeiff/geminivision-discord)** | Node.js, Discord.js v14, Google Gemini AI SDK | Multimodal conversational assistant supporting image attachments and streaming completions. |
+| 🌙 **[SalawatTracker Bot](https://github.com/xSeiff/salawat-tracker-bot)** | Discord.js v14, @resvg/resvg-js, SVG Engine | Spiritual community goal tracker with dynamic sub-30ms vector graphic milestone generation. |
+| 🏢 **ApexFleet ERP** *(Private Enterprise)* | React 18, Express, SQLite, Caddy | Commercial fleet distribution ERP, document countdowns, attendance, and tripartite voucher settlement. |
 
 ---
 
